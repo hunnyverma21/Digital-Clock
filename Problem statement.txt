@@ -1,0 +1,33 @@
+# DAY OF THE DATE FINDER
+
+Problem Statement:
+
+Create a Python program that accepts a date from the user and determines the day of the week corresponding to that date.
+
+The user should enter the date in DD-MM-YYYY format. The program should process the date using Python's datetime module and display the corresponding day, such as Monday, Tuesday, Wednesday, etc.
+
+The program should also handle invalid date entries and display an appropriate error message instead of terminating unexpectedly.
+
+Example:
+
+Input:
+Enter date (DD-MM-YYYY): 15-08-2026
+
+Output:
+Date: 15-08-2026
+Day: Saturday
+
+Requirements:
+
+1. Accept a date from the user.
+2. Use the DD-MM-YYYY format.
+3. Determine the correct day of the week.
+4. Display the date and corresponding day.
+5. Handle invalid date formats using exception handling.
+
+Learning Objectives:
+
+* Learn how to work with dates in Python.
+* Understand the datetime module.
+* Practice user input and string formatting.
+* Learn basic exception handling using try-except.
